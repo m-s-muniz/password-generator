@@ -32,9 +32,14 @@ THEN the password is either displayed in an alert or written to the page
 
 ### The URL of the deployed application
 
-
+https://m-s-muniz.github.io/password-generator/
 
 ### Screen shot
 
-
-
+![Alt text](Screen%20Shot%201.png)
+![Alt text](Screen%20Shot%202.png)
+![Alt text](Screen%20Shot%203.png)
+![Alt text](Screen%20Shot%204.png)
+![Alt text](Screen%20Shot%205.png)
+![Alt text](Screen%20Shot%206.png)
+![Alt text](Screen%20Shot%207.png)
