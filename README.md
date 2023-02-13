@@ -31,3 +31,10 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ### The URL of the deployed application
+
+
+
+### Screen shot
+
+
+
